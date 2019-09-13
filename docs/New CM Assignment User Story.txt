@@ -1,0 +1,7 @@
+Story Summary: As a CM consultant to National Router Lifecycle Project, I need to assist them in becoming VIP compliant in regards to configuration and change management.
+File Against: CM_Assignnemt
+Impact: Moderate
+Severity: 3 - Medium
+Description: This story will be the parent to all of the tasks to be performed with National Router Lifecycle Project (NRL) to attain VIP compliance.
+Planned For: CM Project Support Q1
+Application: Name should match Application in Task spreadsheet
