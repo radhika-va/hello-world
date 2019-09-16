@@ -15,5 +15,9 @@ if(input == YES)
 {
 cout <<"Hello World";
 }
+else if (input == NO)
+{
+cout << "Enter YES as input for Hello World to be displayed"
+}
 return 0;
 }
