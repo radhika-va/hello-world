@@ -1,0 +1,1 @@
+In sprint 1 user is asked to enter an input. if the input is yes then the system displays the text "hello world"
