@@ -20,4 +20,5 @@ else if (input == NO)
 cout << "Enter YES as input for Hello World to be displayed";
 }
 return 0;
+// this is the end of the application
 }
